@@ -1,6 +1,6 @@
 const db = require("../db");
 
-//Add a comment describing what this function does and what does it return
+//puts a constant variable called get tasks
 const getTasks = async () => {
   const res = await db.query(
     //correct this SQL query to select all tasks from the database
