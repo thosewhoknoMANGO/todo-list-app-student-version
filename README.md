@@ -5,6 +5,6 @@ https://todo-list-app-student-version-503m.onrender.com/STATIC/
 
 my project is deploying a web service instace with made with github through Render. which would act as a To-DO list app, where you could put in a title object and a description of it
 
-done by myself ALEX
+done by myself ALEX ONLY and samantha
 
 <img width="546" alt="Screenshot 2025-06-04 at 11 44 25 AM" src="https://github.com/user-attachments/assets/7fcdec1c-25b6-4bd8-a652-7ab8fc1241e5" />
